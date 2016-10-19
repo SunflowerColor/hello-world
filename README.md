@@ -1,3 +1,2 @@
 # hello-world
-just fun
-hugo
+just for fun
